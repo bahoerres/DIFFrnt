@@ -17,6 +17,11 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "/DIFFrnt",
+    baseUrlInternal: "/DIFFrnt", // Add this line
+    // Change this if not already set correctly
+    pageTitle: "🪴 DIFFrnt",
+    // Add this if not present to ensure proper URL construction
+    url: "https://bahoerres.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
