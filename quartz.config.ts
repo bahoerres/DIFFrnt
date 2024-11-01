@@ -23,9 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "DejaVuSerif Nerd Font",
-        body: "Ubuntu Sans",
-        code: "JetBrainsMono Nerd Font",
+        header: "Merriweather",
+        body: "Ubuntu Sans Mono",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
