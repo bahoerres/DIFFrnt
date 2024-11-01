@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "bahoerres.github.io/DIFFrnt",
+    baseUrl: "https://bahoerres.github.io/DIFFrnt",
     pageTitle: "🪴 DIFFrnt",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
