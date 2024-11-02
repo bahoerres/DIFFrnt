@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:15
-updated: 2024-10-30T08:44
+updated: 2024-11-02T02:33
 ---
 # Emergency Task Start Protocol
 
@@ -44,7 +44,7 @@ graph TD
 
 ### When Overwhelmed
 1. Pick smallest visible task
-2. Use [[Constraint Box]] method
+2. Use [[Constraint Box Method]] method
 3. Set physical timer (not phone)
 4. Promise yourself a break after
 

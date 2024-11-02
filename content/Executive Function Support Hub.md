@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T07:52
-updated: 2024-10-30T07:52
+updated: 2024-11-02T02:33
 ---
 
 ## Quick Reference Card
@@ -11,7 +11,7 @@ updated: 2024-10-30T07:52
    - Hyperfocus potential
 2. Pick matching task from [[Task Menus]]
 3. Select one tool based on current state:
-   - Low focus → [[Constraint Box]]
+   - Low focus → [[Constraint Box Method]]
    - Need novelty → [[Productivity Pinball]]
    - Overwhelmed → [[Five Things Method]]
 4. Set visual timer
@@ -40,7 +40,7 @@ updated: 2024-10-30T07:52
   - Point values
   - Weekly targets
   - Reward tiers
-- [[Constraint Box]]
+- [[Constraint Box Method]]
   - Time constraints
   - Physical constraints
   - Environment constraints
