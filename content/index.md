@@ -3,96 +3,150 @@ created: 2024-10-30T07:52
 updated: 2024-10-30T07:52
 ---
 
-## Quick Reference Card
-### Emergency Task Start Protocol
-1. Check energy level: [[Energy States]]
-   - Zombie
-   - Spark
-   - Hyperfocus potential
-2. Pick matching task from [[Task Menus]]
-3. Select one tool based on current state:
-   - Low focus → [[Constraint Box]]
-   - Need novelty → [[Productivity Pinball]]
-   - Overwhelmed → [[Five Things Method]]
-4. Set visual timer
-5. START (don't prep more)
+# 🧠 Executive Function Support System
 
-## Core Concepts
-### [[Energy States]]
-- Zombie Mode
-- Spark of Energy
-- Hyperfocus Ready
-- Energy tracking templates
-- Common patterns and triggers
+## 🚀 Quick Access
 
-### [[Task Management Systems]]
-- [[Five Things Method]]
-  - One big task
-  - Three medium tasks
-  - One small victory
-- [[Task Menus]]
-  - Energy-based categorization
-  - Task difficulty scaling
-  - Template for new menus
+### Emergency Tools
 
-### [[Motivation Systems]]
-- [[Productivity Pinball]]
-  - Point values
-  - Weekly targets
-  - Reward tiers
-- [[Constraint Box]]
-  - Time constraints
-  - Physical constraints
-  - Environment constraints
+- [[Emergency Task Start Protocol|🆘 Emergency Start]]
+- [[Current Energy State|⚡ Energy Check]]
+- [[Quick Wins List|✅ Quick Wins]]
+- [[Crisis Management|🛟 Crisis Help]]
 
-### [[Environmental Support]]
-- [[Task Staging]]
-  - Kit preparation
-  - Environment setup
-  - Common blockers
-- [[Productivity Anchors]]
-  - Habit stacking
-  - Trigger identification
-  - Success patterns
+### Daily Essentials
 
-### [[Crisis Management]]
-- [[Impossible Task Protocol]]
-  - Micro-steps template
-  - Emotional barrier inventory
-  - Recovery strategies
-- [[Swiss Cheese Method]]
-  - Entry point identification
-  - Progress tracking
-  - Completion strategies
+- [[Task Menus|📋 Today's Tasks]]
+- [[Energy States|🔋 Energy Guide]]
+- [[Pattern Recognition|🔄 Track Patterns]]
+- [[System Maintenance|🛠️ Maintenance]]
 
-## Meta Notes
-### [[System Maintenance]]
-- Weekly review template
-- System adjustment logs
-- Pattern recognition
+## 📊 Core Systems
 
-### [[Personal Patterns]]
-- Success logs
-- Barrier documentation
-- Strategy effectiveness tracking
+### Energy Management
 
-## Recommended Connections
-- Link [[Energy States]] to [[Task Menus]] for quick reference
-- Connect [[Crisis Management]] to specific tasks in [[Task Management Systems]]
-- Cross-reference [[Motivation Systems]] with [[Environmental Support]]
-- Tag tasks with energy levels from [[Energy States]]
+- [[Energy States]]
+  - [[Current Energy State]]
+  - [[Energy Patterns]]
+  - State Transitions
+    - [[Zombie Mode]]
+    - [[Spark Mode]]
+    - [[Hyperfocus Mode]]
 
-## Templates
-### Daily Check-in
-- Current energy level: 
-- Available support tools:
-- Main blockers:
-- Quick wins available:
+### Task Systems
 
-### Task Entry Template
-- Task name:
-- Energy level required:
-- Potential barriers:
-- Support tools needed:
-- Point value:
-- Related areas:
+- [[Task Management Systems]]
+  - [[Quick Wins List]]
+  - [[Task Menus]]
+  - [[Active Projects]]
+  - [[Task Patterns]]
+
+### Support Networks
+
+- [[System Maintenance]]
+  - [[Personal Maintenance]]
+  - [[Pattern Recognition]]
+  - [[Crisis Management]]
+  - [[Environmental Support]]
+
+## 🔄 Daily Workflows
+
+### Energy-Based Workflows
+
+```mermaid
+graph LR
+    A[Energy Check] --> B[Select System]
+    B --> C[Choose Tasks]
+    C --> D[Track Patterns]
+    D --> A
+```
+
+### Task Management Flow
+
+```mermaid
+graph TD
+    A[Check Energy] --> B{Energy Level}
+    B -->|Low| C[Quick Wins]
+    B -->|Medium| D[Task Menus]
+    B -->|High| E[Active Projects]
+```
+
+## 📱 Quick Reference
+
+- [[Quick Reference Cards]]
+  - Energy States Card
+  - Emergency Start Card
+  - Transition Protocols
+  - Crisis Response
+
+## 📈 Pattern Recognition
+
+- [[Pattern Recognition MOC]]
+  - [[Energy Patterns]]
+  - [[Task Patterns]]
+  - [[System Patterns]]
+  - [[Pattern Library]]
+
+## 🛠️ Maintenance Hub
+
+- [[System Maintenance]]
+  - Daily Check-ins
+  - Weekly Reviews
+  - Monthly Audits
+  - Emergency Repairs
+
+## 📝 Templates
+
+### Reviews
+
+- [[Daily Review Template]]
+- [[Weekly Review Template]]
+- [[Monthly Review Template]]
+
+### Tracking
+
+- [[Energy Tracking Template]]
+- [[Task Template]]
+- [[Pattern Tracking Template]]
+
+## 🎯 Implementation Guides
+
+- [[Getting Started Guide]]
+- [[System Setup Guide]]
+- [[Crisis Response Guide]]
+- [[Pattern Recognition Guide]]
+
+## 🔍 Meta
+
+- [[About This System]]
+- [[System Updates]]
+- [[Known Issues]]
+- [[Feature Requests]]
+
+## 🔗 External Resources
+
+- [[Body Doubling Resources]]
+- [[ADHD Support Tools]]
+- [[Autism Support Tools]]
+- [[Crisis Support Links]]
+
+## 📊 Statistics
+
+```dataviewjs
+// Example dataview for system usage
+// - Task completion rates
+// - Energy pattern trends
+// - System effectiveness metrics
+```
+
+## 🎨 CSS Snippets
+
+```markdown
+Available Themes:
+
+- Low Sensory Theme
+- High Contrast Theme
+- Mobile Optimized
+- Focus Mode
+```
+
