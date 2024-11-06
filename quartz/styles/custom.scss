@@ -1,3 +1,48 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Mobile-optimized styling */
+.mobile-optimized {
+  max-width: 100%;
+  padding: 1rem;
+  font-size: 16px; /* Minimum readable size on mobile */
+}
+
+.quick-access {
+  font-size: 18px; /* Slightly larger for emergency access */
+  line-height: 1.5;
+  padding: 0.5rem;
+}
+
+/* Ensure buttons/interactive elements have adequate touch targets */
+.mobile-optimized a,
+.mobile-optimized button {
+  min-height: 44px;
+  min-width: 44px;
+  padding: 12px;
+}
+
+// Mobile-specific styling
+@media screen and (max-width: 768px) {
+  .mobile-optimized {
+    .quickLinks {
+      position: sticky;
+      top: 0;
+      display: flex;
+      justify-content: space-around;
+      background: var(--background);
+      padding: 0.5rem;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+      a {
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+  }
+}
