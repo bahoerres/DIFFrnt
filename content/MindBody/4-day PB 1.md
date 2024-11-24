@@ -43,8 +43,8 @@ updated: 2024-11-21T17:36
 
 | Exercise               | Sets x Reps | Weight/Notes        | Rest   |
 | ---------------------- | ----------- | ------------------- | ------ |
-| High Bar Squat         | 3 x 5       | 145-160 lb (65-70%) | 2 min  |
-| High Bar Squat Singles | 5 x 1       | ~190-200 lb (85%)   | 30 sec |
+| High Bar Squat         | 3 x 5       | 180 lb (80%)        | 2 min  |
+| High Bar Squat Singles | 5 x 1       | 200 lb (~90%)       | 30 sec |
 | Good Morning           | 3 x 8-10    | *Replaces SLDL*     | 2 min  |
 | Single Leg Press       | 3 x 12-15   | 140 lb total        | 2 min  |
 | Reverse Hyper          | 3 x 12-15   | Back health         | 90 sec |
