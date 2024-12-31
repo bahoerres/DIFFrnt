@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:17
-updated: 2024-11-02T02:33
+updated: 2024-12-31T16:08
 ---
 ## Emergency Overrides
 ### When Frozen
@@ -11,7 +11,7 @@ updated: 2024-11-02T02:33
 
 ### When Overwhelmed
 1. Pick smallest visible task
-2. Use [[Constraint Box Method]] method
+2. Use [[🎁 The Constraint Box Method - Structured Support for Your Mind]] method
 3. Set physical timer (not phone)
 4. Promise yourself a break after
 

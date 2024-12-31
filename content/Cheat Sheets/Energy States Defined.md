@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:20
-updated: 2024-10-30T08:20
+updated: 2024-12-31T14:54
 ---
 ## Energy States Defined
 
@@ -13,7 +13,7 @@ updated: 2024-10-30T08:20
 - Decision-making impaired
 
 #### Best Actions
-- Use [[Quick Wins List]]
+- Use [[✅ Quick Wins List - Your Momentum-Building Toolkit]]
 - Physical movement tasks
 - Routine/automatic tasks
 - Low decision tasks
@@ -34,7 +34,7 @@ updated: 2024-10-30T08:20
 - Basic decisions possible
 
 #### Best Actions
-- Use [[Task Menus]]
+- Use [[🍽️ Task Menus]]
 - Mixed difficulty tasks
 - Short duration sprints
 - Flexible switching

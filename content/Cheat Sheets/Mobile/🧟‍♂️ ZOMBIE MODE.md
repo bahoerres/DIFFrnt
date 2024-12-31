@@ -1,32 +1,30 @@
 ---
-title: ZOMBIE MODE
-description: Quick access mobile reference
-type: quick-access
-mobile: true
-date: 2024-11-02
-lastmod: 2024-11-02
+id: 🧟‍♂️ ZOMBIE MODE
+aliases:
+  - 🧟♂️ ZOMBIE MODE
 tags:
   - efSystem
   - quickAccess
   - mobile
-aliases:
-  - 🧟‍♂️ ZOMBIE MODE
-enableToc: false
-showNav: true
-mobileNav:
-  - text: 🏠 Home
-    link: index
-  - text: 🆘 Emergency
-    link: emergency-task-start-protocol
-  - text: ⚡ Energy
-    link: current-energy-state
-mobileFirst: true
-cssClass: mobile-optimized quick-access
 created: 2024-11-01T17:24
-updated: 2024-11-02T10:33
+cssClass: mobile-optimized quick-access
+date: 2024-11-02
+description: Quick access mobile reference
+enableToc: false
+lastmod: 2024-11-02
+mobile: true
+mobileFirst: true
+mobileNav:
+  - text: "🏠 Home link: index"
+  - text: "🆘 Emergency link: emergency-task-start-protocol"
+  - text: "⚡ Energy link: current-energy-state"
+showNav: true
+title: ZOMBIE MODE
+type: quick-access
+updated: 2024-12-26T17:17
 ---
 
-# 🧟‍♂️ ZOMBIE MODE
+# 🧟♂️ ZOMBIE MODE
 ```markdown
 YOU ARE HERE IF:
 - Brain foggy

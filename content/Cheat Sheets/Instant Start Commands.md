@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:16
-updated: 2024-10-30T08:16
+updated: 2024-12-26T16:30
 ---
 ## Instant Start Commands
 ### 🧟‍♂️ Low Energy Mode
