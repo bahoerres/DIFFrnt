@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T07:58
-updated: 2024-12-31T15:01
+updated: 2024-12-31T18:17
 ---
 
 > [!tip] Compassionate Crisis Support
@@ -180,27 +180,22 @@ Imagine the task is a block of Swiss cheese. Instead of trying to go through the
 > This protocol exists to support you, not to judge you.
 
 ## Related Support Systems
-- [[🔋 Energy States - Understanding Your Brain's Power Management System]]
+- [[🔋 Energy States - Understanding Your Brain's Power Management System|🔋 Energy States]]
   - Understand and match your current energy capacity
   - Find tasks that align with your present state
 - [[🌈 The Emotion-Task Bridge]]
   - Deep dive into emotion-based task selection
   - Strategies for working with different emotional states
-- [[Task Management Systems]]
+- [[🎯 Task Management Systems - Building Your Personal Productivity Engine|🎯 Task Management Systems]]
   - Five Things Method for structured task approach
   - Task Menus for energy-based task selection
-- [[Motivation Systems]]
+- [[🎮 Motivation Systems - Engineering Your Engagement Engine|🎮 Motivation Systems]]
   - Productivity Pinball for gamifying progress
   - Constraint Box Method for focused work
-- [[Support Network]]
+- [[🤝 Support Network - Building Your Circle of Strength|🤝 Support Network]]
   - Activation strategies
   - Communication templates
-- [[System Maintenance]]
+- [[🛠️ Maintenance Master System - Keeping Your System Running Smoothly|🛠️ System Maintenance]]
   - Weekly review techniques
   - Pattern recognition tools
 
-Would you like to:
-1. Start a crisis support check-in?
-2. Explore your current task challenge?
-3. Activate support resources?
-4. Rest and reset?

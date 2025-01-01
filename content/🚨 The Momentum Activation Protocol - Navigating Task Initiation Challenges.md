@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:15
-updated: 2024-12-31T15:01
+updated: 2024-12-31T18:14
 ---
 
 ## Quick Access Protocol
@@ -89,4 +89,4 @@ Sometimes, the very act of starting feels impossible. Here's your emergency prot
 4. Set a 2-minute timer
 5. Give yourself full permission to stop
 ## Related
-[[🔋 Energy States - Understanding Your Brain's Power Management System]] | [[✅ Quick Wins List - Your Momentum-Building Toolkit]] | [[Task Management Systems]]
+[[🔋 Energy States - Understanding Your Brain's Power Management System|🔋 Energy States]] | [[✅ Quick Wins List - Your Momentum-Building Toolkit|✅ Quick Wins List]] | [[🎯 Task Management Systems - Building Your Personal Productivity Engine|🎯 Task Management Systems]]

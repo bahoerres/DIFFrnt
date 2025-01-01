@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:11
-updated: 2024-12-31T15:01
+updated: 2024-12-31T17:44
 ---
 
 > [!tip] Quick Start Guide
@@ -126,9 +126,9 @@ Start paying attention to when momentum flows naturally and when it tends to bre
 ## Connecting with Other Systems
 - [[🔋 Energy States - Understanding Your Brain's Power Management System]] - Match momentum strategies to current capacity
 - [[🏠 Environment Anchors - Designing Spaces That Support Your Brain]] - Create spaces that support flow
-- [[Pattern Recognition]] - Learn your natural momentum rhythms
-- [[Support Network]] - Build momentum-maintaining relationships
+- [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓]] - Learn your natural momentum rhythms
+- [[🤝 Support Network - Building Your Circle of Strength]] - Build momentum-maintaining relationships
 
 Remember: The goal isn't constant high-energy motion. It's about maintaining gentle forward movement, understanding your rhythms, and working with your brain's natural tendencies rather than against them.
 ## Related
-[[Task Management Systems]] | [[🔋 Energy States - Understanding Your Brain's Power Management System]] | [[Pattern Recognition]]
+[[🎯 Task Management Systems - Building Your Personal Productivity Engine|🎯 Task Management Systems]] | [[🔋 Energy States - Understanding Your Brain's Power Management System|🔋 Energy States]] | [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|🧠 Pattern Recognition]]

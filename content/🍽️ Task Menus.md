@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:24
-updated: 2024-12-31T15:34
+updated: 2024-12-31T17:19
 ---
 > [!info]+ Purpose
 > Task Menus are an adaptive system designed to reduce decision fatigue and match tasks to your current
@@ -120,4 +120,4 @@ When used regularly, Task Menus become a natural part of your workflow, reducing
 >> - Align tasks with energy levels.
 >>
 ## 🗂️ **Related Notes**
-**[[Task Management Systems]]** | **[[Energy Management]]** | **[[Pattern Recognition]]**
+**[[🎯 Task Management Systems - Building Your Personal Productivity Engine]]** | **[[⚡ Energy Management - Your Personal Power Grid Manual]]** | **[[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓]]**

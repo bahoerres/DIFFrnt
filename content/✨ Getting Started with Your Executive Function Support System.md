@@ -1,6 +1,6 @@
 ---
 created: 2024-12-31T14:36
-updated: 2024-12-31T15:05
+updated: 2024-12-31T17:16
 ---
 
 Welcome! It's great to have you here. You've taken the first step toward understanding and supporting your wonderful, neurodivergent brain. This guide will walk you through the basics, setting you up for success with your new Executive Function Support System.
@@ -37,8 +37,6 @@ Remember, this is a journey, not a race. Be kind to yourself, celebrate small wi
 
 **Next Steps:**
 
-- Explore the **[[Task Menus]]** to find tasks that match your current energy state.
-- Start incorporating your **Quick Wins** into your day.
+- Explore the **[[🍽️ Task Menus]]** to find tasks that match your current energy state.
+- Start incorporating your **[[✅ Quick Wins List - Your Momentum-Building Toolkit]]** into your day.
 - Notice what's working and what's not, and use that information to personalize the system. The more you learn about yourself, the better it will work!
-
-This draft incorporates elements from "index.md" files () such as an encouraging tone, and integrates specific steps derived from the conversation history. Additionally, it maintains a concise and welcoming structure to avoid overwhelming new users while still offering clear actionable steps.

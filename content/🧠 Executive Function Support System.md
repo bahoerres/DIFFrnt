@@ -1,12 +1,12 @@
 ---
 created: 2024-10-30T07:52
-updated: 2024-12-31T15:12
+updated: 2024-12-31T18:10
 ---
 
 > [!tip] Need Help Right Now?
 > If you're in a difficult moment - maybe staring at a task you can't start, feeling overwhelmed by options, or struggling to maintain focus:
 > 1. Go directly to [[🚨 The Momentum Activation Protocol - Navigating Task Initiation Challenges|🆘 Emergency Start]] - immediate help for when you're stuck
-> 2. Check your [[Current Energy State|⚡ Energy Check]] - match your capacity to your needs
+> 2. Check your [[🔋 Energy States - Understanding Your Brain's Power Management System|🔋 Energy State]] - match your capacity to your needs
 > 3. Find something doable on the [[✅ Quick Wins List - Your Momentum-Building Toolkit|✅ Quick Wins]] - small steps to build momentum
 > 4. Get crisis support from [[🛟 Crisis Management - The Impossible Task Protocol|🛟 Crisis Help]] - when you need more structured support
 
@@ -34,10 +34,10 @@ Traditional productivity systems often feel like they're written for someone els
 
 Think of the **Emergency Tools** section as your first aid kit for executive function challenges. When everything feels like too much:
 
-- [[🚨 The Momentum Activation Protocol - Navigating Task Initiation Challenges|Emergency Start]] - Straightforward steps to break through task paralysis, starting with actions as small as "look at your task list" or "move one object related to your task"
-- [[Current Energy State|Energy Check]] - Quick assessment and matching tools to work with your available energy, not against it
-- [[✅ Quick Wins List - Your Momentum-Building Toolkit]] - Pre-selected, low-barrier tasks that can help you build momentum when starting feels impossible
-- [[🛟 Crisis Management - The Impossible Task Protocol|Crisis Help]] - Structured support for those moments when you need more than just task management
+- [[🚨 The Momentum Activation Protocol - Navigating Task Initiation Challenges|🚨 The Momentum Activation Protocol]] - Straightforward steps to break through task paralysis, starting with actions as small as "look at your task list" or "move one object related to your task"
+- [[🔋 Energy States - Understanding Your Brain's Power Management System|🔋 Energy State]] - Quick assessment and matching tools to work with your available energy, not against it
+- [[✅ Quick Wins List - Your Momentum-Building Toolkit|✅ Quick Wins List]] - Pre-selected, low-barrier tasks that can help you build momentum when starting feels impossible
+- [[🛟 Crisis Management - The Impossible Task Protocol|🛟 Crisis Management]] - Structured support for those moments when you need more than just task management
 
 ### 📅 For Daily Support
 
@@ -45,8 +45,8 @@ These **Daily Essentials** are your regular tools for navigating each day, desig
 
 - [[🍽️ Task Menus|Today's Tasks]] - Like a restaurant menu for tasks, offering choices based on your current energy and capacity
 - [[🔋 Energy States - Understanding Your Brain's Power Management System|Energy Guide]] - Understanding and working with your energy fluctuations instead of fighting them
-- [[Pattern Recognition|Track Patterns]] - Simple ways to notice what works for you, building your personal instruction manual
-- [[System Maintenance|Maintenance]] - Light-touch ways to keep your support systems running without getting overwhelmed
+- [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|Pattern Recognition]] - Simple ways to notice what works for you, building your personal instruction manual
+- [[🛠️ Maintenance Master System - Keeping Your System Running Smoothly|Maintenance]] - Light-touch ways to keep your support systems running without getting overwhelmed
 
 ### 🔧 Core Systems
 
@@ -77,18 +77,18 @@ Maybe you've just realized you're neurodivergent, or you're tired of fighting wi
 ### If You're in a Rough Patch
 Everyone has difficult days. When you're struggling:
 
-1. Use the [[Crisis Response Guide]] - step-by-step support when things are hard
+1. Use the [[🛟 Crisis Management - The Impossible Task Protocol]] - step-by-step support when things are hard
 2. Focus only on [[✅ Quick Wins List - Your Momentum-Building Toolkit|small wins]] - build momentum gradually
-3. Activate your [[Support Network]] - you don't have to do this alone
+3. Activate your [[🤝 Support Network - Building Your Circle of Strength]] - you don't have to do this alone
 4. Remember your [[🚨 The Momentum Activation Protocol - Navigating Task Initiation Challenges]] - small steps forward still count
 
 ### If You're Ready to Build
 When you're feeling stable and want to strengthen your support systems:
 
-1. Explore the [[Task Management Systems]] - find tools that match your thinking style
-2. Start [[Pattern Recognition]] - learn what works for you
+1. Explore the [[🎯 Task Management Systems - Building Your Personal Productivity Engine|Task Management Systems]] - find tools that match your thinking style
+2. Start [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|Pattern Recognition]] - learn what works for you
 3. Create your [[🏠 Environment Anchors - Designing Spaces That Support Your Brain]] - design spaces that support you
-4. Customize your [[System Maintenance]] - keep things running smoothly
+4. Customize your [[🎯 Task Management Systems - Building Your Personal Productivity Engine|System Maintenance]] - keep things running smoothly
 
 ## Finding Your Path
 
@@ -106,7 +106,7 @@ When you're feeling stable and want to strengthen your support systems:
 >> - [[✅ Quick Wins List - Your Momentum-Building Toolkit]] - maintain momentum
 >> - [[Task Management Systems]] - structured support
 >> - [[Pattern Recognition]] - learn as you go
->> - [[Support Network]] - stay connected
+>> - [[🤝 Support Network - Building Your Circle of Strength]] - stay connected
 >
 >> ### 🌙 Evening Reset
 >> Wind down with:
@@ -117,7 +117,7 @@ When you're feeling stable and want to strengthen your support systems:
 
 ## System Evolution
 
-Remember: This isn't about achieving perfect productivity or forcing yourself to work like a neurotypical brain. It's about building a support system that helps you thrive as you are. Use the [[Pattern Recognition Guide]] to track what works for you, and don't hesitate to adapt any part of the system to better match your needs.
+Remember: This isn't about achieving perfect productivity or forcing yourself to work like a neurotypical brain. It's about building a support system that helps you thrive as you are. Use the [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|Pattern Recognition Guide]] to track what works for you, and don't hesitate to adapt any part of the system to better match your needs.
 
 ## Additional Resources
 
@@ -130,7 +130,7 @@ When you need extra help:
 
 ### 🎨 Customization
 Make it yours:
-- [[System Setup Guide]] - step-by-step setup
+- [[🚀 Setting Up Your Executive Function Support System|System Setup Guide]] - step-by-step setup
 - Available Themes - match your visual preferences
 - Mobile Optimization - support on the go
 - Focus Mode Settings - reduce overwhelm
@@ -142,7 +142,7 @@ This system exists to support you, not to add pressure or become another source 
 Your brain isn't broken - it's just running on a different operating system. These tools are here to help you work with your natural patterns and strengths, not against them.
 
 Would you like to:
-1. [[Getting Started Guide|Start Your Journey]]?
+1. [[✨ Getting Started with Your Executive Function Support System|Start Your Journey]]?
 2. [[🛟 Crisis Management - The Impossible Task Protocol|Get Immediate Help]]?
-3. [[Pattern Recognition Guide|Learn the System]]?
-4. [[Support Network|Find Support]]?
+3. [[🧠 Executive Function Support System|Learn the System]]?
+4. [[🤝 Support Network - Building Your Circle of Strength|Find Support]]?

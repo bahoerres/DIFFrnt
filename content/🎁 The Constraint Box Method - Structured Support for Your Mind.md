@@ -1,6 +1,6 @@
 ---
 created: 2024-11-08T17:44
-updated: 2024-12-31T16:08
+updated: 2024-12-31T17:20
 ---
 
 > [!tip] Core Concept
@@ -84,7 +84,7 @@ Each energy state needs its own level of constraint support:
 
 - **[[🏠 Environmental Support - Designing Your Productivity Ecosystem|Environment Anchors]]:** Your constraint systems should work seamlessly with your environmental support setup, creating mutual reinforcement.
 
-- **[[Pattern Recognition]]:** Track which constraints work best in different situations, helping you refine your system over time.
+- **[[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|Pattern Recognition]]:** Track which constraints work best in different situations, helping you refine your system over time.
 
 - **[[🚨 The Momentum Activation Protocol - Navigating Task Initiation Challenges|Momentum Protocol]]:** Use constraints as launching points for action, reducing startup friction.
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30T08:11
-updated: 2024-12-31T15:01
+updated: 2024-12-31T17:18
 ---
 > [!tip] Quick Start Guide
 > When you're feeling overwhelmed and need to get started:
@@ -158,9 +158,9 @@ Success Patterns: [What made it work before]
 > - Track what works for future reference
 
 ## Related Notes
-- [[🔋 Energy States - Understanding Your Brain's Power Management System]] - Detailed guide to recognizing and working with different energy levels
-- [[Task Management Systems]] - Additional frameworks for organizing work
-- [[Pattern Recognition]] - How to track and learn from what works
-- [[Support Network]] - Building and maintaining help systems
+- [[🔋 Energy States - Understanding Your Brain's Power Management System|Energy States]] - Detailed guide to recognizing and working with different energy levels
+- [[🎯 Task Management Systems - Building Your Personal Productivity Engine|Task Management Systems]] - Additional frameworks for organizing work
+- [[🧠 The Unseen Guide - Unmasking Your Productivity Patterns 🔓|Pattern Recognition]] - How to track and learn from what works
+- [[🤝 Support Network - Building Your Circle of Strength|Support Network]] - Building and maintaining help systems
 
 Remember: The goal isn't to be productive all the time - it's to have options for channeling energy when you're ready to act, and permission to rest when you're not.
