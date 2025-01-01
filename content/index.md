@@ -1,10 +1,15 @@
 ---
 created: 2024-10-30T07:52
-updated: 2024-12-31T17:05
+updated: 2024-12-31T18:26
 ---
 
 
 This is **your command center for navigating life with a neurodivergent brain**, providing quick access to tools and resources designed to support your unique needs. Think of it as a personalized toolkit for **managing energy, tasks, motivation, and your overall well-being.**
+
+> [!tip] **First things First:** A few resources to get started
+>> [[✨ Getting Started with Your Executive Function Support System]]
+>> [[🚀 Setting Up Your Executive Function Support System]]
+>> [[🛠️ Maintenance Master System - Keeping Your System Running Smoothly]]
 
 ### 🚨 **Emergency Tools:**
 
