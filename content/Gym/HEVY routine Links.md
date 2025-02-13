@@ -43,8 +43,8 @@ updated: 2025-02-13T15:48
 | ----------------------------------------- | ---- | ----- | --------- |
 | ***Superset***                            |      |       |           |
 | Bicep Curl (Cable)                        | 3    | 12-15 | Superset  |
-| Preacher Curl (Machine)                   | 3    | 15-18 | 1m 45s    |
+| Preacher Curl (Machine)                   | 3    | 15-20 | 1m 45s    |
 | **Squat (Barbell)**                       | 3    | 8     | 1m 45s    |
 | **Hack Squat (Machine) (Reverse-Banded)** | 2    | 10-12 | 1m 45s    |
-| **Single Leg Press (Machine)**            | 3    | 3-12  | 1m 45s    |
-| **Seated Leg Curl (Machine)**             | 3    | 7-8   | 1m 45s    |
+| **Single Leg Press (Machine)**            | 3    | 8-12  | 1m 45s    |
+| **Seated Leg Curl (Machine)**             | 3    | 6-8   | 1m 45s    |
